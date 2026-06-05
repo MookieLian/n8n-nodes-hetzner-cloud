@@ -1,0 +1,18 @@
+{
+	"node": "n8n-nodes-base.hetznerCloud",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Development", "Utility"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://github.com/MookieLian/n8n-nodes-hetzner-cloud?tab=readme-ov-file#credentials"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://docs.hetzner.cloud/"
+			}
+		]
+	}
+}
