@@ -1,6 +1,6 @@
 {
 	"name": "@mookielianhd/n8n-nodes-hetzner-cloud",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"description": "n8n community node for the Hetzner Cloud API - manage servers, volumes, networks, firewalls, load balancers, floating/primary IPs, SSH keys, images and more",
 	"license": "MIT",
 	"homepage": "https://github.com/MookieLian/n8n-nodes-hetzner-cloud#readme",
