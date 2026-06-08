@@ -25,6 +25,8 @@ import { getVolumes } from './listSearch/getVolumes';
 import { getNetworks } from './listSearch/getNetworks';
 import { getFirewalls } from './listSearch/getFirewalls';
 import { getLoadBalancers } from './listSearch/getLoadBalancers';
+import { getFloatingIps } from './listSearch/getFloatingIps';
+import { getPrimaryIps } from './listSearch/getPrimaryIps';
 import { getImages } from './listSearch/getImages';
 import { getCertificates } from './listSearch/getCertificates';
 import { getPlacementGroups } from './listSearch/getPlacementGroups';
@@ -116,6 +118,8 @@ export class HetznerCloud implements INodeType {
 			getNetworks,
 			getFirewalls,
 			getLoadBalancers,
+			getFloatingIps,
+			getPrimaryIps,
 			getImages,
 			getCertificates,
 			getPlacementGroups,
